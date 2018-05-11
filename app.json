@@ -1,0 +1,9 @@
+{
+  "appname": "DyltRest",
+  "httpport": "1339",
+  "runmode": "dev",
+  "sqluser": "db2admin",
+  "sqlpass": "Maddox01",
+  "sqldb": "@/test",
+  "sessionname": "bdrSession"
+}
